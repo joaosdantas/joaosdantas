@@ -1,16 +1,85 @@
-## Hi there 👋
+# João Dantas
 
-<!--
-**joaosdantas/joaosdantas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer • WordPress • React • TypeScript • PHP
 
-Here are some ideas to get you started:
+I build digital products, web applications and automation solutions, 
+from idea to production.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working with:
+
+- ⚛️ React / TypeScript / Vite
+- 🐘 PHP / WordPress / WooCommerce
+- 🗄️ Supabase / PostgreSQL / MySQL
+- 🎨 Tailwind CSS
+- 🤖 AI integrations & automation
+- ☁️ Cloudflare / Vercel / VPS
+
+---
+
+## What I do
+
+I work across the stack, combining development, UI/UX and product thinking
+to build solutions that are actually useful.
+
+### Web Development
+
+WordPress • WooCommerce • PHP • React • TypeScript
+
+### Product Development
+
+SaaS • Dashboards • Internal systems • APIs • Automation
+
+### AI & Automation
+
+AI-powered workflows • Data processing • Integrations • Developer tools
+
+---
+
+## Featured Projects
+
+### Arena AI
+
+AI-powered platform focused on sports and video analysis.
+
+**React · TypeScript · Vite · Supabase · Python**
+
+---
+
+### DevPartner
+
+Development partner platform for agencies and digital businesses.
+
+**React · TypeScript · Supabase · Tailwind**
+
+---
+
+### Nexabee
+
+Digital products, development and technology solutions.
+
+**React · WordPress · PHP · TypeScript**
+
+---
+
+## Tech Stack
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=typescript,react,vite,tailwind,php,wordpress,mysql,postgres,supabase,nodejs,git,github,cloudflare,vercel,python" />
+
+</p>
+
+---
+
+## Let's build something
+
+I'm interested in:
+
+- Full Stack Development
+- WordPress & WooCommerce
+- SaaS & web applications
+- AI-powered products
+- Automation
+- Technical partnerships
+
+📫 Feel free to reach out through GitHub or LinkedIn.
