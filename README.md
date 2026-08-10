@@ -1,85 +1,77 @@
 # João Dantas
 
-### Full Stack Developer • WordPress • React • TypeScript • PHP
+**Full Stack Developer**
 
-I build digital products, web applications and automation solutions, 
-from idea to production.
+Building web products, SaaS platforms and automation systems.
 
-Currently working with:
-
-- ⚛️ React / TypeScript / Vite
-- 🐘 PHP / WordPress / WooCommerce
-- 🗄️ Supabase / PostgreSQL / MySQL
-- 🎨 Tailwind CSS
-- 🤖 AI integrations & automation
-- ☁️ Cloudflare / Vercel / VPS
+[Linkedin](https://www.linkedin.com/in/jo%C3%A3o-dantas42/)
 
 ---
 
-## What I do
+## About
 
-I work across the stack, combining development, UI/UX and product thinking
-to build solutions that are actually useful.
+I'm a Full Stack Developer focused on building modern web applications
+and digital products.
 
-### Web Development
+My background started with WordPress and PHP and evolved into modern
+frontend architectures with React, TypeScript and Vite.
 
-WordPress • WooCommerce • PHP • React • TypeScript
-
-### Product Development
-
-SaaS • Dashboards • Internal systems • APIs • Automation
-
-### AI & Automation
-
-AI-powered workflows • Data processing • Integrations • Developer tools
+Today I work across the entire product lifecycle — from UI and architecture
+to backend, databases, integrations and deployment.
 
 ---
 
-## Featured Projects
+## Currently building
 
-### Arena AI
+### 🏟️ Arena AI
 
-AI-powered platform focused on sports and video analysis.
+AI-powered sports analysis platform.
 
-**React · TypeScript · Vite · Supabase · Python**
-
----
-
-### DevPartner
-
-Development partner platform for agencies and digital businesses.
-
-**React · TypeScript · Supabase · Tailwind**
+React · TypeScript · Supabase · Python
 
 ---
 
-### Nexabee
+### 🤝 DevPartner
 
-Digital products, development and technology solutions.
+A development-as-a-service platform connecting agencies with developers.
 
-**React · WordPress · PHP · TypeScript**
-
----
-
-## Tech Stack
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=typescript,react,vite,tailwind,php,wordpress,mysql,postgres,supabase,nodejs,git,github,cloudflare,vercel,python" />
-
-</p>
+React · TypeScript · Supabase · Tailwind
 
 ---
 
-## Let's build something
+### 🐝 Nexabee
 
-I'm interested in:
+Technology and digital product ecosystem.
 
-- Full Stack Development
-- WordPress & WooCommerce
-- SaaS & web applications
-- AI-powered products
-- Automation
-- Technical partnerships
+React · WordPress · PHP · TypeScript
 
-📫 Feel free to reach out through GitHub or LinkedIn.
+---
+
+## Stack
+
+Frontend
+React · TypeScript · Vite · Tailwind
+
+Backend
+PHP · Node.js · Python
+
+CMS / E-commerce
+WordPress · WooCommerce
+
+Database
+PostgreSQL · MySQL · Supabase
+
+Infrastructure
+Vercel · Cloudflare · VPS · GitHub
+
+---
+
+## GitHub Activity
+
+![GitHub Stats](...)
+
+---
+
+## Let's connect
+
+If you're building something interesting, let's talk.
