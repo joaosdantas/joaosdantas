@@ -1,77 +1,59 @@
 # João Dantas
 
-**Full Stack Developer**
+**Desenvolvedor Full Stack** | Brasil 🇧🇷
 
-Building web products, SaaS platforms and automation systems.
+Construindo produtos digitais, plataformas SaaS e sistemas de automação.
 
-[Linkedin](https://www.linkedin.com/in/jo%C3%A3o-dantas42/)
-
----
-
-## About
-
-I'm a Full Stack Developer focused on building modern web applications
-and digital products.
-
-My background started with WordPress and PHP and evolved into modern
-frontend architectures with React, TypeScript and Vite.
-
-Today I work across the entire product lifecycle — from UI and architecture
-to backend, databases, integrations and deployment.
+[LinkedIn](https://www.linkedin.com/jo%C3%A3o-dantas42/) · [GitHub](https://github.com/joaosdantas)
 
 ---
 
-## Currently building
+## Sobre
 
-### 🏟️ Arena AI
+Desenvolvedor Full Stack com foco em aplicações web modernas e produtos digitais.
 
-AI-powered sports analysis platform.
+Minha trajetória começou com WordPress e PHP, evoluindo para arquiteturas
+frontend modernas com React, TypeScript e Vite.
 
-React · TypeScript · Supabase · Python
-
----
-
-### 🤝 DevPartner
-
-A development-as-a-service platform connecting agencies with developers.
-
-React · TypeScript · Supabase · Tailwind
+Atualmente atuo em todo o ciclo de vida do produto — do UI e arquitetura
+ao backend, banco de dados, integrações e deploy.
 
 ---
 
-### 🐝 Nexabee
+## Projetos em Destaque
 
-Technology and digital product ecosystem.
+### 🏐 Arena AI
+Plataforma de análise esportiva com IA.
+`React` · `TypeScript` · `Supabase` · `Python`
 
-React · WordPress · PHP · TypeScript
+### 🚀 DevPartner
+Plataforma de desenvolvimento como serviço conectando agências e desenvolvedores.
+`React` · `TypeScript` · `Supabase` · `Tailwind`
+
+### 🍔 Nexafood
+Plataforma de delivery e gestão alimentar.
+`React` · `TypeScript` · `Supabase`
 
 ---
 
 ## Stack
 
-Frontend
-React · TypeScript · Vite · Tailwind
-
-Backend
-PHP · Node.js · Python
-
-CMS / E-commerce
-WordPress · WooCommerce
-
-Database
-PostgreSQL · MySQL · Supabase
-
-Infrastructure
-Vercel · Cloudflare · VPS · GitHub
+| Camada | Tecnologias |
+|---|---|
+| **Frontend** | React · TypeScript · Vite · Tailwind |
+| **Backend** | PHP · Node.js · Python |
+| **CMS / E-commerce** | WordPress · WooCommerce |
+| **Banco de Dados** | PostgreSQL · MySQL · Supabase |
+| **Infraestrutura** | Vercel · Cloudflare · VPS · GitHub |
 
 ---
 
-## GitHub Activity
+## Estatísticas
 
-![GitHub Stats](...)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaosdantas&show_icons=true&theme=dark)
 
 ---
 
-## Let's connect
+## Contato
 
-If you're building something interesting, let's talk.
+Se você está construindo algo interessante, vamos conversar.
