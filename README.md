@@ -50,10 +50,11 @@ Plataforma de delivery e gestão alimentar.
 
 ## Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaosdantas&show_icons=true&theme=dark)
-
+![Stars](https://img.shields.io/github/stars/joaosdantas?style=flat&label=Stars&color=yellow)
+![Followers](https://img.shields.io/github/followers/joaosdantas?style=flat&label=Followers&color=blue)
+![Repos](https://img.shields.io/badge/Repositories-23-brightgreen?style=flat)
 ---
-
 ## Contato
 
 Se você está construindo algo interessante, vamos conversar.
+[LinkedIn](https://www.linkedin.com/jo%C3%A3o-dantas42/) ou [Instagram](https://www.instagram.com/joaocmdantas) 
